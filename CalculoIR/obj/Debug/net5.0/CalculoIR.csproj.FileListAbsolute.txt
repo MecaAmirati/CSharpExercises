@@ -1,0 +1,16 @@
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\CalculoIR.exe
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\CalculoIR.deps.json
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\CalculoIR.runtimeconfig.json
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\CalculoIR.runtimeconfig.dev.json
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\CalculoIR.dll
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\ref\CalculoIR.dll
+C:\Users\amirati\source\repos\CalculoIR\bin\Debug\net5.0\CalculoIR.pdb
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.csproj.AssemblyReference.cache
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.AssemblyInfoInputs.cache
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.AssemblyInfo.cs
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.csproj.CoreCompileInputs.cache
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.dll
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\ref\CalculoIR.dll
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.pdb
+C:\Users\amirati\source\repos\CalculoIR\obj\Debug\net5.0\CalculoIR.genruntimeconfig.cache
