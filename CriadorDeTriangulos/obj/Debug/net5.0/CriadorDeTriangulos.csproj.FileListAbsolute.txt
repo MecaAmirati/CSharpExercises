@@ -1,0 +1,15 @@
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\CriadorDeTriangulos.exe
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\CriadorDeTriangulos.deps.json
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\CriadorDeTriangulos.runtimeconfig.json
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\CriadorDeTriangulos.runtimeconfig.dev.json
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\CriadorDeTriangulos.dll
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\ref\CriadorDeTriangulos.dll
+C:\Users\amirati\source\repos\CriadorDeTriangulos\bin\Debug\net5.0\CriadorDeTriangulos.pdb
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.AssemblyInfo.cs
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.dll
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\ref\CriadorDeTriangulos.dll
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.pdb
+C:\Users\amirati\source\repos\CriadorDeTriangulos\obj\Debug\net5.0\CriadorDeTriangulos.genruntimeconfig.cache
