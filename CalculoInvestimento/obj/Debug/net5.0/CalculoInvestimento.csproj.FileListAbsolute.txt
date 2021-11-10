@@ -1,0 +1,16 @@
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\CalculoInvestimento.exe
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\CalculoInvestimento.deps.json
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\CalculoInvestimento.runtimeconfig.json
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\CalculoInvestimento.runtimeconfig.dev.json
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\CalculoInvestimento.dll
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\ref\CalculoInvestimento.dll
+C:\Users\amirati\source\repos\CalculoInvestimento\bin\Debug\net5.0\CalculoInvestimento.pdb
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.csproj.AssemblyReference.cache
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.AssemblyInfoInputs.cache
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.AssemblyInfo.cs
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.csproj.CoreCompileInputs.cache
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.dll
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\ref\CalculoInvestimento.dll
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.pdb
+C:\Users\amirati\source\repos\CalculoInvestimento\obj\Debug\net5.0\CalculoInvestimento.genruntimeconfig.cache
